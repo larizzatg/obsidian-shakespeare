@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-shakespeare",
+  "name": "Obsidian Shakespeare",
+  "author": "Larizza Tueros",
+  "version": "0.0.1",
+	"authorUrl": "https://github.com/larizzatg",
+  "minAppVersion": "0.9.12",
+	"description": "Obsidian plugin for writing goals and analytics.",
+	"isDesktopOnly": false
+}
